@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 good
+=======
+byeee
+>>>>>>> b286524c4bd208f74505cc90a7c6bfb498a3cb66
